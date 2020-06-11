@@ -1,0 +1,7 @@
+﻿  question12.cpp
+g:\vsworkspace\剑指offer\question12\question12\question12.cpp(17): warning C4018: “>=”: 有符号/无符号不匹配
+g:\vsworkspace\剑指offer\question12\question12\question12.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+g:\vsworkspace\剑指offer\question12\question12\question12.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+g:\vsworkspace\剑指offer\question12\question12\question12.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+g:\vsworkspace\剑指offer\question12\question12\question12.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+  question12.vcxproj -> G:\vsworkspace\剑指offer\question12\Debug\question12.exe

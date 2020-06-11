@@ -1,0 +1,3 @@
+﻿  qusetion9.cpp
+g:\vsworkspace\剑指offer\qusetion9\qusetion9\qusetion9.cpp(95): warning C4715: “My_stack::top”: 不是所有的控件路径都返回值
+  qusetion9.vcxproj -> G:\vsworkspace\剑指offer\qusetion9\Debug\qusetion9.exe
