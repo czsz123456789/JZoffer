@@ -1,0 +1,3 @@
+﻿  question44.cpp
+g:\vsworkspace\剑指offer\question44\question44\question44.cpp(28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  question44.vcxproj -> G:\vsworkspace\剑指offer\question44\Debug\question44.exe

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  question54.cpp
+g:\vsworkspace\剑指offer\question54\question54\question54.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  question54.vcxproj -> G:\vsworkspace\剑指offer\question54\Debug\question54.exe

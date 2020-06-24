@@ -1,0 +1,14 @@
+﻿  question41.cpp
+g:\vsworkspace\剑指offer\question41\question41\question41.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  g:\vsworkspace\剑指offer\question41\question41\question41.cpp(72): note: 参见对正在编译的函数 模板 实例化“std::vector<int,std::allocator<_Ty>> medianII<int>(std::vector<_Ty,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+  g:\vsworkspace\剑指offer\question41\question41\question41.cpp(79): note: 参见对正在编译的函数 模板 实例化“void Test<int>(const char *,std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+g:\vsworkspace\剑指offer\question41\question41\question41.cpp(51): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  question41.vcxproj -> G:\vsworkspace\剑指offer\question41\Debug\question41.exe

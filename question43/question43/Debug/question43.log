@@ -1,0 +1,5 @@
+﻿  question43.cpp
+g:\vsworkspace\剑指offer\question43\question43\question43.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\vsworkspace\剑指offer\question43\question43\question43.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+g:\vsworkspace\剑指offer\question43\question43\question43.cpp(41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  question43.vcxproj -> G:\vsworkspace\剑指offer\question43\Debug\question43.exe
