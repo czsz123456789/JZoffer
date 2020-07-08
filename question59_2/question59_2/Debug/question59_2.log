@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  question59_2.cpp
+g:\vsworkspace\剑指offer\question59_2\question59_2\question59_2.cpp(50): warning C4715: “Myqueue<int>::max”: 不是所有的控件路径都返回值
+  question59_2.vcxproj -> G:\vsworkspace\剑指offer\question59_2\Debug\question59_2.exe

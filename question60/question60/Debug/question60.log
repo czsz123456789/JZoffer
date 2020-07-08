@@ -1,0 +1,4 @@
+﻿  question60.cpp
+g:\vsworkspace\剑指offer\question60\question60\question60.cpp(24): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+g:\vsworkspace\剑指offer\question60\question60\question60.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+  question60.vcxproj -> G:\vsworkspace\剑指offer\question60\Debug\question60.exe
